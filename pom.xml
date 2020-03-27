@@ -10,6 +10,8 @@
         <module>service_order</module>
         <module>register_server</module>
         <module>gateway_server</module>
+        <module>config_client</module>
+        <module>config_server</module>
     </modules>
 
     <parent>

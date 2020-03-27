@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://gitee.com/zhang_zi_yan/springcould-dome-01.git
+          uri: https://github.com/zhengaobinlonglive/3.27test.git
           search-paths:
           -configfiles
         label: dev
