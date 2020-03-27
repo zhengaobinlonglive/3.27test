@@ -1,0 +1,13 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/zhang_zi_yan/springcould-dome-01.git
+          search-paths:
+          -configfiles
+        label: dev
